@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yazan Tadros - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: square;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Yazan Tadros</h1>
+        <p>San Francisco, CA | (352) 215-2052 | <a href="mailto:ystadros@dons.usfca.edu">ystadros@dons.usfca.edu</a> | <a href="http://www.linkedin.com/in/yazan-tadros">LinkedIn</a></p>
+        
+        <h2>Education</h2>
+        <p><strong>University of San Francisco</strong>, San Francisco, CA (Expected: 05/2024)<br>
+        Bachelor of Science in Business Administration: Management | GPA: 3.48<br>
+        Honors: Harold Balzer Endowed Scholarship</p>
+        
+        <h2>Experience</h2>
+        <h3>Dishcovery.io, San Francisco, CA (05/2023 - 08/2023)</h3>
+        <p><strong>Business Development and Marketing Internship</strong></p>
+        <ul>
+            <li>Conducted usability tests to optimize the user experience.</li>
+            <li>Developed and executed marketing strategies, increasing active users.</li>
+            <li>Implemented growth strategies resulting in 404% social media reach increase and 353% engagement boost.</li>
+            <li>Collaborated closely with the CEO on UI design and app development.</li>
+        </ul>
+        
+        <h3>Kellogg, Dubai, UAE (07/2022 - 08/2022)</h3>
+        <p><strong>Marketing Internship</strong></p>
+        <ul>
+            <li>Led cross-competitive analysis and marketing campaigns for Pringles and Kellogg Cereal.</li>
+            <li>Developed influencer marketing strategies to expand Pringles’ audience.</li>
+            <li>Assisted in launching a new RTEC product through R&D strategies.</li>
+        </ul>
+        
+        <h3>University of San Francisco, San Francisco, CA (10/2021 - Present)</h3>
+        <p><strong>Sustainability Specialist</strong></p>
+        <ul>
+            <li>Implemented sustainability initiatives at USFCA.</li>
+            <li>Produced and managed on-campus sustainability events and digital media.</li>
+        </ul>
+        
+        <h3>Soaksandsalts, Dubai, UAE (08/2018 - 01/2021)</h3>
+        <p><strong>Founder</strong></p>
+        <ul>
+            <li>Created and marketed sustainable skincare products online.</li>
+            <li>Led workshops and brand wellness initiatives.</li>
+            <li>Ensured ethical sourcing of ingredients.</li>
+        </ul>
+        
+        <h2>Leadership</h2>
+        <ul>
+            <li>Special Events Committee, USFCA Campus Activities Board (08/2021 - 05/2023)</li>
+            <li>Community Rebuilding, Camps International, Tanzania & Cambodia (02/2018 & 02/2019)</li>
+            <li>Student Government, Universal American School, Dubai (08/2016 - 01/2020)</li>
+        </ul>
+        
+        <h2>Certificates</h2>
+        <ul>
+            <li>HarvardX Leadership: Foundation Principles (07/2022)</li>
+            <li>Stanford University Pre-collegiate Program (08/2017)</li>
+            <li>PETA Compassionate Teen Award (07/2016)</li>
+        </ul>
+        
+        <h2>Skills</h2>
+        <ul>
+            <li>Office 365, MySQL, Canva, Tableau</li>
+            <li>Cross-Competitive Analysis, Product Development, Marketing Strategy</li>
+            <li>Bilingual: English & Arabic</li>
+        </ul>
+    </div>
+</body>
+</html>
